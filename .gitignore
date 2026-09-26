@@ -1,0 +1,22 @@
+# Entornos virtuales y dependencias
+.conda/
+miniconda*/
+venv/
+__pycache__/
+*.pyc
+
+# Variables de entorno y llaves (Crítico por OPSEC)
+.env
+*.env
+.secret
+*.pem
+
+# Base de datos y datos locales de prueba
+data/
+*.db
+*.sqlite
+*.parquet
+
+# Configuraciones de IDEs
+.vscode/
+.idea/
