@@ -20,3 +20,4 @@ data/
 # Configuraciones de IDEs
 .vscode/
 .idea/
+ibm_data/
